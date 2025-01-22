@@ -21,7 +21,7 @@
 title: AI Hackers Labs
 email: humanos@aihackers.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Experiencias compartidas por el equipo de AI Hackers Prototyping.
+  Experiences shared by the AI Hackers Prototyping team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lumartin
