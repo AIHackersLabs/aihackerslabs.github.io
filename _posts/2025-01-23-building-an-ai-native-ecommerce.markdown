@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Kicking Off: Building an AI Native Ecommerce"
-date: 2025-01-23
+title:  "Kicking Off: Building an AI Native Ecommerce"
+date:   2025-01-23
 categories: ecommerce ai-native
 ---
-
 Welcome to the first post in our new blog series! We’re the `AI Hackers Labs Prototyping Team`, a group of engineers and researchers passionate about harnessing the transformative power of AI. Our mission is to explore the cutting edge of AI, develop innovative prototypes, and share our findings with the community.
 
 Our work is guided by principles of openness and collaboration. This blog serves as a space where we share our technical insights, case studies, best practices, and contributions to the open-source ecosystem. We’re excited to bring you along as we embark on a unique prototyping journey: building an AI Native Ecommerce platform.
@@ -51,7 +50,4 @@ In our next post, we’ll dive deeper into the first area of focus: catalog mana
 
 Follow our journey and share your thoughts with us. Let’s explore the future of ecommerce together!
 
-
 [ai-hackers-shop]: https://shop.ahackers.es
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
