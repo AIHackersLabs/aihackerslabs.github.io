@@ -12,6 +12,8 @@ Our work is guided by principles of openness and collaboration. This blog serves
 
 We recently launched a merchandise Ecommerce site for AI Hackers (hosted at [AI Hackers Shop][ai-hackers-shop]). While having an online store is exciting, ecommerce isn’t our core business. This prompted a big question: Is it possible to fully automate the management of an ecommerce store?
 
+![AI Hackers Shop]({{ "/assets/images/ai-hackers-shop.png" | relative_url }})
+
 The idea of reducing or even eliminating manual intervention in areas like catalog management, customer support, and marketing is intriguing. At AI Hackers Labs, we’re diving into this challenge to see what’s possible. Over a series of posts, we’ll share our progress, prototypes, and lessons learned as we test AI-driven automation across key areas of the business. Let's evolve the concept of `AI-native` from buzzword to reality!
 
 ## What We Have Set Up
@@ -43,6 +45,8 @@ And this is just the beginning. As we progress, we expect to uncover even more o
 ### How We Defined Our Roadmap
 
 To define our approach, we’ve leveraged Experimentor, a structured discovery process that helps identify pain points and prioritize solutions. By breaking down the ecommerce ecosystem into manageable components, we’ve created a clear, step-by-step plan for testing and implementing AI prototypes.
+
+![Experimentor]({{ "/assets/images/experimentor.png" | relative_url }})
 
 ## What’s Next
 
