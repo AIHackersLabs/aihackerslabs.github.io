@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kicking Off: Building an AI Native Ecommerce"
-date:   2025-01-23 01:52:45 +0100
+date:   2025-01-22
 categories: ecommerce ai-native
 ---
 Welcome to the first post in our new blog series! We’re the `AI Hackers Labs Prototyping Team`, a group of engineers and researchers passionate about harnessing the transformative power of AI. Our mission is to explore the cutting edge of AI, develop innovative prototypes, and share our findings with the community.
